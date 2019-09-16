@@ -3,3 +3,5 @@
 https://zindi.africa/competitions/farm-pin-crop-detection-challenge
 
 <img src='https://github.com/simongrest/farm-pin-crop-detection-challenge/blob/master/eolearn_workflow/output/nvdi.gif'/>
+
+<img src='https://github.com/simongrest/farm-pin-crop-detection-challenge/blob/master/eolearn_workflow/output/visible_spectrum.gif'/>
