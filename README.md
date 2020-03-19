@@ -1,4 +1,3 @@
-
 # What’s growing there?
 
 Using eo-learn and fastai to identify crops from multi-spectral remote sensing data
@@ -252,3 +251,8 @@ I am very curious to learn what approaches the other competitors employed.
 ## *Thanks*
 
 *I’d like to thank the team at [Zindi](http://zindi.africa) for putting together such an interesting challenge. I’d also like to thank the eo-learn team both for providing such a useful library and for such engaging posts on how to use it. Thanks too to the fastai community for all their work in making deep learning more approachable and broadly accessible. Finally I’d like to thank [Stefano Giomo](https://forums.fast.ai/u/ste/summary) for all his input on this project.*
+
+
+## Copyright and attribution
+
+The code in the notebooks in this repository is licensed under the Apache Licence, Version 2.0. Please feel free to modify and re-use it. If you find this work useful and re-use it in a public context it would be great if you could mention where the code originated.
